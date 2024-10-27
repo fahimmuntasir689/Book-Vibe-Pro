@@ -26,7 +26,7 @@ const ListedBooks = () => {
            </div>
 
             <div role="tablist" className="mt-16 tabs tabs-lifted">
-                <input type="radio" name="my_tabs_2" role="tab" className="tab" aria-label="Read Books" />
+                <input type="radio" name="my_tabs_2" role="tab" className="tab" aria-label="ReadList" />
                 <div role="tabpanel" className="tab-content bg-base-100 border-base-300 rounded-box p-6">
                     {
                         books.map(book => getStoredBooks(intId).includes(book.id) && <AllListedBooks key={book.key} book={book}></AllListedBooks>
@@ -40,7 +40,7 @@ const ListedBooks = () => {
                     name="my_tabs_2"
                     role="tab"
                     className="tab"
-                    aria-label="Wished Books"
+                    aria-label="WishList"
                     defaultChecked />
                 <div role="tabpanel" className="tab-content bg-base-100 border-base-300 rounded-box p-6">
                     {

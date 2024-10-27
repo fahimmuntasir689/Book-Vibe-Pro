@@ -6,7 +6,7 @@ const AllListedBooks = ({ book }) => {
 
     return (
         <>
-            <div className="flex flex-col gap-4 md:flex-row items-center border">
+            <div className="flex flex-col gap-4 rounded mt-4 p-4 md:flex-row items-center border">
                 <div className="bg-[#F3F3F3] p-6 rounded-md">
                     <img src='/public/pics/book-two.jpg' alt="" />
                 </div>
