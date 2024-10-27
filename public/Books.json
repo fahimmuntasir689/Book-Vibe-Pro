@@ -1,0 +1,80 @@
+[
+    {
+        "id": 1,
+        "image": "/public/pics/book-two.jpg",
+        "tags": [
+            "fantasy",
+            "adventure",
+            "magic"
+        ],
+        "bookName": "The Chronicles of Eldoria",
+        "author": "Ariana Stone",
+        "category": "Fantasy",
+        "rating": 4.8
+    },
+    {
+        "id": 2,
+        "image": "/public/pics/book-two.jpg",
+        "tags": [
+            "mystery",
+            "thriller",
+            "crime"
+        ],
+        "bookName": "Shadows in the Fog",
+        "author": "James Hunter",
+        "category": "Mystery",
+        "rating": 4.5
+    },
+    {
+        "id": 3,
+        "image": "/public/pics/book-two.jpg",
+        "tags": [
+            "romance",
+            "drama",
+            "historical"
+        ],
+        "bookName": "Hearts of the Past",
+        "author": "Lily Grace",
+        "category": "Romance",
+        "rating": 4.2
+    },
+    {
+        "id": 4,
+        "image": "/public/pics/book-two.jpg",
+        "tags": [
+            "science fiction",
+            "space",
+            "technology"
+        ],
+        "bookName": "Galactic Odyssey",
+        "author": "David Nguyen",
+        "category": "Science Fiction",
+        "rating": 4.7
+    },
+    {
+        "id": 5,
+        "image": "/public/pics/book-two.jpg",
+        "tags": [
+            "horror",
+            "supernatural",
+            "ghosts"
+        ],
+        "bookName": "Whispers in the Dark",
+        "author": "Emily Frost",
+        "category": "Horror",
+        "rating": 4.3
+    },
+    {
+        "id": 6,
+        "image": "/public/pics/book-two.jpg",
+        "tags": [
+            "non-fiction",
+            "self-help",
+            "motivational"
+        ],
+        "bookName": "Rise and Thrive",
+        "author": "Michael Adams",
+        "category": "Self-Help",
+        "rating": 4.9
+    }
+]

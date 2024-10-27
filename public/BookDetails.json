@@ -1,0 +1,104 @@
+[
+    {
+        "id": 1,
+        "image": "/public/pics/book-one.jpg",
+        "tags": [
+            "fantasy",
+            "adventure",
+            "magic"
+        ],
+        "bookName": "The Chronicles of Eldoria",
+        "author": "Ariana Stone",
+        "category": "Fantasy",
+        "rating": 4.8,
+        "review": "A thrilling tale of magic and adventure, perfect for fans of epic fantasy.",
+        "numberOfPages": 432,
+        "publishingTime": "2021-07-15",
+        "publisher": "Eldoria Press"
+    },
+    {
+        "id": 2,
+        "image": "/public/pics/book-one.jpg",
+        "tags": [
+            "mystery",
+            "thriller",
+            "crime"
+        ],
+        "bookName": "Shadows in the Fog",
+        "author": "James Hunter",
+        "category": "Mystery",
+        "rating": 4.5,
+        "review": "A gripping mystery that keeps you on the edge of your seat until the final twist.",
+        "numberOfPages": 354,
+        "publishingTime": "2019-10-22",
+        "publisher": "Mystic House"
+    },
+    {
+        "id": 3,
+        "image": "/public/pics/book-one.jpg",
+        "tags": [
+            "romance",
+            "drama",
+            "historical"
+        ],
+        "bookName": "Hearts of the Past",
+        "author": "Lily Grace",
+        "category": "Romance",
+        "rating": 4.2,
+        "review": "A heartwarming historical romance that takes you on a journey of love and loss.",
+        "numberOfPages": 298,
+        "publishingTime": "2020-02-14",
+        "publisher": "Timeless Love Publishing"
+    },
+    {
+        "id": 4,
+        "image": "/public/pics/book-one.jpg",
+        "tags": [
+            "science fiction",
+            "space",
+            "technology"
+        ],
+        "bookName": "Galactic Odyssey",
+        "author": "David Nguyen",
+        "category": "Science Fiction",
+        "rating": 4.7,
+        "review": "An epic space adventure that explores the future of humanity in the cosmos.",
+        "numberOfPages": 512,
+        "publishingTime": "2022-05-18",
+        "publisher": "Cosmic Ventures"
+    },
+    {
+        "id": 5,
+        "image": "/public/pics/book-one.jpg",
+        "tags": [
+            "horror",
+            "supernatural",
+            "ghosts"
+        ],
+        "bookName": "Whispers in the Dark",
+        "author": "Emily Frost",
+        "category": "Horror",
+        "rating": 4.3,
+        "review": "A chilling ghost story that will haunt you long after you finish the book.",
+        "numberOfPages": 376,
+        "publishingTime": "2018-09-09",
+        "publisher": "Dark Night Books"
+    },
+    {
+        "id": 6,
+        "image": "/public/pics/book-one.jpg",
+        "tags": [
+            "non-fiction",
+            "self-help",
+            "motivational"
+        ],
+        "bookName": "Rise and Thrive",
+        "author": "Michael Adams",
+        "category": "Self-Help",
+        "rating": 4.9,
+        "review": "An inspiring guide to personal growth and achieving success in all areas of life.",
+        "numberOfPages": 240,
+        "publishingTime": "2023-01-05",
+        "publisher": "Empowerment Press"
+    }
+]
