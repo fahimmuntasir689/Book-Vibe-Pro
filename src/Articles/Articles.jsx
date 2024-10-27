@@ -37,7 +37,8 @@ const Articles = () => {
                 <br />
 
                 In essence, books enrich our lives by developing both cognitive and emotional strengths. They offer a unique blend of entertainment, education, and inspiration that few other mediums provide, making reading an essential habit for growth and well-being. <br />
-                from ChatGPT</p>
+
+                <span className="font-medium mt-4"> -- Copied from from ChatGPT --</span></p>
         </div>
     );
 };
