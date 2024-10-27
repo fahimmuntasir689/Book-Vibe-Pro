@@ -3,7 +3,7 @@
 const Articles = () => {
     return (
         <div className="p-12 md:p-5">
-            <p className="text-lg"> <article>Reading books has profound benefits that impact various aspects of personal and intellectual growth. Here are some key reasons why reading is valuable: <br />
+            <p className="text-lg"> Reading books has profound benefits that impact various aspects of personal and intellectual growth. Here are some key reasons why reading is valuable: <br />
 
                 ### 1. **Expands Knowledge and Perspective**
                 Books offer insights into diverse topics, from history and science to culture and philosophy, and help us understand how people in different times and places think and live. This broader perspective enhances our worldview, promoting open-mindedness and empathy. <br />
@@ -36,7 +36,7 @@ const Articles = () => {
 
                 <br />
 
-                In essence, books enrich our lives by developing both cognitive and emotional strengths. They offer a unique blend of entertainment, education, and inspiration that few other mediums provide, making reading an essential habit for growth and well-being.</article> <br />
+                In essence, books enrich our lives by developing both cognitive and emotional strengths. They offer a unique blend of entertainment, education, and inspiration that few other mediums provide, making reading an essential habit for growth and well-being. <br />
                 from ChatGPT</p>
         </div>
     );

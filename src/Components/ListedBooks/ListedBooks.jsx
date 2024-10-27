@@ -1,5 +1,5 @@
 import { useLoaderData, useParams } from "react-router-dom";
-import { getStoredBooks, getStoredWishedBooks, saveStoredBooks } from "../BookDetails/LocalStorage/LocalStorage";
+import { getStoredBooks } from "../BookDetails/LocalStorage/LocalStorage";
 import AllListedBooks from "./AllListedBooks";
 
 
@@ -17,9 +17,9 @@ const ListedBooks = () => {
            <details className="dropdown">
                 <summary className="btn m-1">sort by</summary>
                 <ul className="menu dropdown-content bg-base-100 rounded-box z-[1] w-52 p-2 shadow">
-                    <button><li><a>Rating</a></li></button>
-                    <button><li><a>Number of pages</a></li></button>
-                    <button><li><a>Publishing year</a></li></button>
+                    <button><li>Rating</li></button>
+                    <button><li>Number of pages</li></button>
+                    <button><li>Publishing year</li></button>
                     
                 </ul>
             </details>
