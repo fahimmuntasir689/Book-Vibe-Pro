@@ -24,7 +24,7 @@ const BookCards = ({book}) => {
                         
                     </h2>
                     <p>By : {author}</p>
-                    <hr />
+                    <hr className="border-dashed"/>
                     <div className="card-actions flex justify-between">
                         <div className="">{category}</div>
                         
