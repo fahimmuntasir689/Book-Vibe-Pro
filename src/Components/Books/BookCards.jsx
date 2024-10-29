@@ -3,7 +3,7 @@ import { IoIosStarOutline } from "react-icons/io";
 
 
 const BookCards = ({book}) => {
-    const {id , image , bookName , author , category , rating ,tags} = book
+    const {id , bookName , author , category , rating ,tags} = book
     return (
         <div>
             <div className="card bg-base-100 shadow-xl p-6">
@@ -11,7 +11,7 @@ const BookCards = ({book}) => {
                 <figure>
                     <img className="rounded-xl "
                         src="https://i.ibb.co.com/743YwWk/book-two.jpg"
-                        alt="" />
+                        alt="Book Image" />
                 </figure>
                 </div>
                 <div className="flex justify-between mx-6 mt-3 text-[#23BE0A]">
