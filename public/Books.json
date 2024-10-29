@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "image": "/public/pics/book-two.jpg",
+        "image": "https://i.ibb.co.com/743YwWk/book-two.jpg",
         "tags": [
             "fantasy",
             "adventure",
@@ -14,7 +14,7 @@
     },
     {
         "id": 2,
-        "image": "/public/pics/book-two.jpg",
+        "image": "https://i.ibb.co.com/743YwWk/book-two.jpg",
         "tags": [
             "mystery",
             "thriller",
@@ -27,7 +27,7 @@
     },
     {
         "id": 3,
-        "image": "/public/pics/book-two.jpg",
+        "image": "https://i.ibb.co.com/743YwWk/book-two.jpg",
         "tags": [
             "romance",
             "drama",
@@ -40,7 +40,7 @@
     },
     {
         "id": 4,
-        "image": "/public/pics/book-two.jpg",
+        "image": "https://i.ibb.co.com/743YwWk/book-two.jpg",
         "tags": [
             "science fiction",
             "space",
@@ -53,7 +53,7 @@
     },
     {
         "id": 5,
-        "image": "/public/pics/book-two.jpg",
+        "image": "https://i.ibb.co.com/743YwWk/book-two.jpg",
         "tags": [
             "horror",
             "supernatural",
@@ -66,7 +66,7 @@
     },
     {
         "id": 6,
-        "image": "/public/pics/book-two.jpg",
+        "image": "https://i.ibb.co.com/743YwWk/book-two.jpg",
         "tags": [
             "non-fiction",
             "self-help",

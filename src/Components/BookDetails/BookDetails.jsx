@@ -45,7 +45,7 @@ const BookDetails = () => {
     return (
         <div className="flex flex-col items-center gap-5  md:flex-row ">
             <div className="w-1/2 bg-[#F3F3F3] flex justify-center p-4 rounded-md">
-                <img src='/public/pics/book-two.jpg' alt="" />
+                <img src="https://i.ibb.co.com/743YwWk/book-two.jpg" alt="" />
             </div>
             <div className="w-3/4">
                 <h1 className="text-[#131313] text-[40px] font-semibold">{book.bookName}</h1>

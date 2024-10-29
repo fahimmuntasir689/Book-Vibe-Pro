@@ -3,13 +3,13 @@ import { IoBookSharp } from "react-icons/io5";
 import { IoPeople } from "react-icons/io5";
 
 const AllListedBooks = ({ book }) => {
-    const {bookName , author , tags , publisher , publishingTime , rating , numberOfPages , category } = book;
+    const {bookName , author , tags , publisher , publishingTime , rating , numberOfPages , category , image } = book;
 
     return (
         <>
             <div className="flex flex-col gap-4 rounded mt-4 p-4 md:flex-row items-center border">
                 <div className="bg-[#F3F3F3] p-6 rounded-md">
-                    <img src='/public/pics/book-two.jpg' alt="" />
+                    <img src="https://i.ibb.co.com/743YwWk/book-two.jpg" alt="" />
                 </div>
                 <div>
                     <h1 className="text-[#131313] font-semibold text-3xl">{bookName}</h1>

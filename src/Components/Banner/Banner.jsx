@@ -10,7 +10,7 @@ const Banner = () => {
                     <Link to='/listedBooks'> <button className="btn bg-[#23BE0A] text-[#FFFFFF] mt-6">View The List</button></Link>
                 </div>
 
-                <img className="w-3/4 rounded-xl md:w-1/2" src="/public/Header-Pic.jpg" alt="" />
+                <img className="w-3/4 rounded-xl md:w-1/2" src="https://i.ibb.co.com/P49X4yS/Header-Pic.jpg" alt="" />
 
 
             </div>

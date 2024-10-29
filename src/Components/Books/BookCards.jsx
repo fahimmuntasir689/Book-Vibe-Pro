@@ -10,7 +10,7 @@ const BookCards = ({book}) => {
                 <div className="p-6 bg-[#F3F3F3] rounded-2xl">
                 <figure>
                     <img className="rounded-xl "
-                        src={image}
+                        src="https://i.ibb.co.com/743YwWk/book-two.jpg"
                         alt="" />
                 </figure>
                 </div>
